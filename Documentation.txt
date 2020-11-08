@@ -6,3 +6,7 @@ Date: November 7, 2020
 	- Sawyer --> Programming basics of application
 	- Mohammad & Ryan --> UML Use-case diagrams
 	- Ryan & Chris --> Answering collaboration tools
+
+
+Date: November 8th, 2020
+- Testing Github Repository
