@@ -2,3 +2,7 @@ Date: November 7, 2020
 
 - Repository Created and shared with group members
 - UML Diagrams are work in progress
+	- Chris --> Making Class UML Diagrams
+	- Sawyer --> Programming basics of application
+	- Mohammad & Ryan --> UML Use-case diagrams
+	- Ryan & Chris --> Answering collaboration tools
