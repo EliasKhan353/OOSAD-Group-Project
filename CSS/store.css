@@ -1,0 +1,28 @@
+ul {
+width: 300;
+margin-right: 20px;
+margin-left: 20px;
+padding-top: 20px;
+list-style-type: none;
+float: left;
+}
+
+a {
+color: #000;
+text-decoration: none;
+display: block;
+padding: 8px;
+}
+
+h1 {
+text-align: left;
+margin-left: 20px;
+margin-right: 20px;
+padding-top: 20px;
+}
+
+p {
+padding-top: 40px;
+padding-left: 300px;
+margin: 20px;
+}
